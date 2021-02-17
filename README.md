@@ -6,7 +6,7 @@ This analysis is about the relationship between Universities and fresh graduate 
 3. Does the school region has an effect on the salary?
 and so on.
 
-Direction to download the Final-report-1.html file:
+Directions to download the Final-report-1.html file:
 1. Click the file (Final-report-1.html)
 2. Move your mouse over to "Download" on the top right corner of the box, right click on your mouse, then choose the option "Save link as..."
 3. Choose the directory that you wanted to save that file in.
